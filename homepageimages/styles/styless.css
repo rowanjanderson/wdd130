@@ -1,0 +1,22 @@
+/* body {
+    background-image: url("..images/damien-dufour-BUm3ke-GfPQ-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.stuff, h1, p{
+     position: absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.stuff, h1{
+    top: 40px;
+}
+
+.stuff, p{
+    top: 90px;
+} */
