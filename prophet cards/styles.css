@@ -1,0 +1,43 @@
+body{
+  background-color:hsl(33, 100%, 68%) ;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.dallin{
+  width: 200px;
+background-color: aliceblue;
+ display: block;
+ margin: 0 auto;
+ padding:1%;
+}
+
+h1, p, .list{
+  font: helvetica;
+  display: flex ;
+  justify-content: center;
+}
+a{
+  display: flex ;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+}
+
+.bottomtext{
+  font-family: ui-monospace;
+  font-family: cursive;
+  text-align: center;
+}
+
+.bluebox{
+  background-color: oklch(54.242% 0.24309 275.175);
+  border: 4px solid black;
+  border-radius:6% ;
+  /* padding: 40px; */
+  margin: 20px;
+}
+
+h1, p, .list, .bottomtext, a{
+  color: white;
+}
